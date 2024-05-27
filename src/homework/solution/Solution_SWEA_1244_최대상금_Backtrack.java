@@ -6,6 +6,9 @@ import java.io.InputStreamReader;
 import java.util.HashSet;
 import java.util.StringTokenizer;
 
+/**
+ * 최대상금 Backtrack으로 풀이
+ */
 public class Solution_SWEA_1244_최대상금_Backtrack {
   private static int max;
   private static int N;

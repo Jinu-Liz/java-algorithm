@@ -5,6 +5,9 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
 
+/**
+ * 프로세서 연결하기 풀이
+ */
 public class Solution_SWEA_1767_프로세서연결하기 {
   private static class Point {
     int r, c;

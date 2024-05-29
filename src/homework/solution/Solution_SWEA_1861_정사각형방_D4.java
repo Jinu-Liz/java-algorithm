@@ -5,6 +5,9 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
+/**
+ * 정사각형방 풀이
+ */
 public class Solution_SWEA_1861_정사각형방_D4 {
   private static int[][] A;
   private static int N;

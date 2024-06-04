@@ -2,6 +2,9 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.util.StringTokenizer;
 
+/**
+ * RGB 거리 구하기
+ */
 public class 백준_1149_RGB거리 {
   public static void main(String[] args) throws IOException {
     BufferedReader br = ReaderUtil.inputInReader();
